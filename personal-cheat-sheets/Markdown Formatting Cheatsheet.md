@@ -59,6 +59,12 @@ FROM orders;
 | :-------------- | :---------------: | ---------------: |
 | Cell 1          |      Cell 2       |           Cell 3 |
 
+```markdown
+| Header 1 (Left) | Header 2 (Center) | Header 3 (Right) |
+| :-------------- | :---------------: | ---------------: |
+| Cell 1          |      Cell 2       |           Cell 3 |
+```
+
 
 ### **Links & Images**
 
@@ -68,16 +74,6 @@ FROM orders;
 ```
 
 ### **Advanced Formatting**
-
----
-
-### **Tables**
-
-```markdown
-| Header 1 (Left) | Header 2 (Center) | Header 3 (Right) |
-| :-------------- | :---------------: | ---------------: |
-| Cell 1          |      Cell 2       |           Cell 3 |
-```
 
 ---
 
