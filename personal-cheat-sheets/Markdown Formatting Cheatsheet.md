@@ -52,6 +52,7 @@ SELECT
 FROM orders;
 ````
 
+---
 ### **Tables**
 
 
@@ -65,7 +66,7 @@ FROM orders;
 | Cell 1          |      Cell 2       |           Cell 3 |
 ```
 
-
+---
 ### **Links & Images**
 
 ```markdown
@@ -77,8 +78,6 @@ FROM orders;
 ### **Advanced Formatting**
 
 ---
-
-
 #### **Alerts**
 
 Use these special blockquotes to emphasize critical information.
@@ -90,6 +89,7 @@ Use these special blockquotes to emphasize critical information.
 | Warning   | `> [!WARNING]`  | > [!WARNING] Urgent info that needs immediate attention. |
 
 
+---
 #### **Collapsible Sections**
 
 This is extremely useful for hiding long sections of text.
@@ -103,7 +103,7 @@ This is the hidden content. You can put text, images, and even code blocks in he
 </details>
 ```
 
-
+---
 #### **Footnotes**
 
 You can add footnotes[^1] to your content. They will be rendered at the bottom of the document.
@@ -116,6 +116,7 @@ Here is a simple footnote[^1].
 [^1]: My reference.
 ```
 
+---
 #### **Diagrams (Mermaid)**
 
 You can create flowcharts and other diagrams directly in Markdown.
