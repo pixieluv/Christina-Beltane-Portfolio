@@ -1,8 +1,8 @@
+Markdown
 
+# Advanced Markdown Cheatsheet
 
-# Advanced  Cheatsheet
-
-This is a quick reference guide for the most useful  syntax for creating professional and readable documents on GitHub. It is designed to be scannable, consistent, and easy to follow.
+This is a quick reference guide for the most useful Markdown syntax for creating professional and readable documents on GitHub. It is designed to be scannable, consistent, and easy to follow.
 
 ---
 
@@ -10,16 +10,18 @@ This is a quick reference guide for the most useful  syntax for creating profess
 
 Use these basic styles to add emphasis to your text.
 
-
 | Style         | Syntax        |
 | :------------ | :------------ |
 | Bold          | `**text**`    |
 | Italic        | `*text*`      |
 | Strikethrough | `~~text~~`    |
 | Inline Code   | `` `code` ``  |
-Headings
-Use hashtags to create headings. The number of hashtags determines the size.
 
+---
+
+### **Headings**
+
+Use hashtags to create headings. The number of hashtags determines the size.
 
 
 # Heading 1
@@ -93,7 +95,7 @@ Here is a simple footnote[^1].
 
 [^1]: My reference.
 Diagrams (Mermaid)
-You can create flowcharts and other diagrams directly in .
+You can create flowcharts and other diagrams directly in Markdown.
 
 
 
