@@ -1,5 +1,3 @@
-Markdown
-
 # Advanced Markdown Cheatsheet
 
 This is a quick reference guide for the most useful Markdown syntax for creating professional and readable documents on GitHub. It is designed to be scannable, consistent, and easy to follow.
