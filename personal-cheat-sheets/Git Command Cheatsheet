@@ -1,0 +1,95 @@
+Git Command Cheatsheet
+
+This is a quick reference guide for managing your GitHub portfolio using your preferred tools. It covers the three main ways you will interact with your repository: the GitHub Desktop app, the command line, and your Sublime Text editor.
+
+1. The GitHub Desktop App Workflow (The Easiest Path)
+
+This is the most visual and intuitive method. Use this for your day-to-day updates.
+
+The Core Loop: Sync -> Change -> Commit -> Push
+
+Sync (Pull Changes):
+
+Before you start working, always open the GitHub Desktop app.
+
+Select your Christina-Beltane-Portfolio repository.
+
+Click the Fetch origin button at the top. If there are changes on GitHub that you do not have, it will change to a Pull origin button. Click it to download the latest version. This prevents conflicts.
+
+Make Your Changes:
+
+Open your project folder in Sublime Text and edit your files as needed. Save them.
+
+Commit Your Changes:
+
+Go back to the GitHub Desktop app. On the left side, you will see a list of all the files you have changed.
+
+Check the boxes next to the files you want to save in this "commit."
+
+At the bottom left, there is a Summary box. This is your commit message. Write a short, clear description of what you did (e.g., "Add new SQL example for Top EC2 Costs").
+
+Click the blue Commit to main button. This saves a snapshot of your changes locally on your computer.
+
+Push to GitHub:
+
+After you commit, a new button will appear at the top: Push origin.
+
+Click this button to upload your committed changes to your public GitHub repository. Now the world can see your work.
+
+2. The Command Line (CLI) Workflow (The Power User Path)
+
+This is the traditional way to use Git. It is faster once you know the commands. You will run these commands in your Terminal or Command Prompt.
+
+The Core Loop: pull -> add -> commit -> push
+
+Navigate to Your Project Folder:
+
+Open your terminal and use the cd (change directory) command to navigate to your portfolio folder.
+
+cd path/to/your/Christina-Beltane-Portfolio
+
+Pull Changes:
+
+git pull
+
+This command fetches the latest version of the repository from GitHub and merges it with your local version. Always do this before you start working.
+
+Check the Status:
+
+git status
+
+This command is your best friend. It shows you which files have been changed, which are new, and which are ready to be committed.
+
+Add Files to Staging:
+
+git add .
+
+This command takes all of your changed files and stages them, which means they are ready to be included in your next commit. The . means "add all files in this directory."
+
+Commit Your Changes:
+
+git commit -m "Your clear and concise commit message goes here"
+
+This takes all the files you "added" and saves them in a snapshot with your message.
+
+Push to GitHub:
+
+git push
+
+This command uploads your new commit to your public GitHub repository.
+
+3. Integrating with Sublime Text
+
+Sublime Text is your editor; it is where you write the code. The actual Git commands are still run using either the GitHub Desktop app or the Command Line.
+
+However, Sublime Text can give you powerful visual cues to see what has changed.
+
+How it Works: When you open a project that is a Git repository, Sublime Text (especially with a package like GitGutter) will show you indicators in the margin next to the line numbers:
+
+A yellow square means a line has been modified.
+
+A green plus sign means a new line has been added.
+
+A red arrow means a line has been deleted.
+
+This visual feedback is incredibly helpful for seeing your changes at a glance before you switch over to the GitHub Desktop app or the command line to commit them. You do not run the git commands from within Sublime, but it helps you see what you are about to commit.
