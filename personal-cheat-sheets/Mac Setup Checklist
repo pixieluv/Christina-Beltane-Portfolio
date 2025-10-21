@@ -1,8 +1,9 @@
-Mac Setup Checklist
+The Architect's Mac Setup Checklist
 
-This is your master blueprint for setting up a new Mac for development. It provides a clear, repeatable process for installing and configuring all the essential tools, from the command line foundation to your preferred code editors and programming languages.
+This is your master blueprint for setting up a new Mac for development. It provides a clear, repeatable process for installing and configuring all the essential tools.
 
-Phase 1: The Foundation
+<details open>
+<summary><h3>Phase 1: The Foundation</h3></summary>
 
 [ ] Install Xcode Command Line Tools
 
@@ -35,7 +36,10 @@ Install iTerm2 using Homebrew: brew install --cask iterm2
 
 Close the old Terminal app. From now on, you will use iTerm2 for all command line work.
 
-Phase 2: Version Control & Code Editors
+</details>
+
+<details>
+<summary><h3>Phase 2: Version Control & Code Editors</h3></summary>
 
 [ ] Install Git & GitHub Desktop
 
@@ -49,7 +53,10 @@ Phase 2: Version Control & Code Editors
 
 [ ] Install the Sublime Merge Git client: brew install --cask sublime-merge
 
-Phase 3: Programming Languages
+</details>
+
+<details>
+<summary><h3>Phase 3: Programming Languages</h3></summary>
 
 [ ] Install Python
 
@@ -61,7 +68,10 @@ Install the latest version of Python 3: brew install python3
 
 [ ] Install the RStudio IDE: brew install --cask rstudio
 
-Phase 4: Database Tools
+</details>
+
+<details>
+<summary><h3>Phase 4: Database Tools</h3></summary>
 
 [ ] Install a SQL Client
 
@@ -71,7 +81,10 @@ Install the TablePlus database client (the user interface): brew install --cask 
 
 Install the MySQL database server (the engine that stores the data): brew install mysql
 
-Phase 5: Understand Your Workflow
+</details>
+
+<details>
+<summary><h3>Phase 5: Understand Your Workflow</h3></summary>
 
 This is the process of how all the tools fit together for a typical project.
 
@@ -84,3 +97,5 @@ Commit: Use Sublime Merge or GitHub Desktop to visually review your changes, wri
 Push: Use the "Push" button or command (git push) to upload your changes to your public GitHub repository.
 
 Query: Use TablePlus to connect to databases (like your local MySQL server), run SQL queries, and export results for analysis.
+
+</details>
