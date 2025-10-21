@@ -1,56 +1,56 @@
 # Advanced Markdown Cheatsheet
 
-Of course. The workflow is clear: what is on the Canvas is our perfected blueprint, and you need the raw source code to build it in your portfolio without any rendering issues.
-
-Here is the entire, raw source text of the "Advanced Markdown Cheatsheet" inside a single, clean code block. This will prevent any rendering and will allow you to copy the entire block of text perfectly, with all the original syntax intact.
-
-Markdown
-
-# Advanced Markdown Cheatsheet
-
 This is a quick reference guide for the most useful Markdown syntax for creating professional and readable documents on GitHub. It is designed to be scannable, consistent, and easy to follow.
+
+---
 
 ### **Text Formatting**
 
 Use these basic styles to add emphasis to your text.
 
-| Style | Syntax | 
- | ----- | ----- | 
-| Bold | `**text**` | 
-| Italic | `*text*` | 
-| Strikethrough | `~~text~~` | 
-| Inline Code | `` `code` `` | 
+| Style         | Syntax        |
+| :------------ | :------------ |
+| Bold          | `**text**`    |
+| Italic        | `*text*`      |
+| Strikethrough | `~~text~~`    |
+| Inline Code   | `` `code` ``  |
+
+---
 
 ### **Headings**
 
 Use hashtags to create headings. The number of hashtags determines the size.
 
-| Syntax | Output | 
- | ----- | ----- | 
-| `# Text` | \# Heading 1 | 
-| `## Text` | \## Heading 2 | 
-| `### Text` | \### Heading 3 | 
+| Syntax    | Output      |
+| :-------- | :---------- |
+| `# Text`  | # Heading 1 |
+| `## Text` | ## Heading 2 |
+| `### Text`| ### Heading 3 |
+
+---
 
 ### **Lists & Task Lists**
 
-| Type | Syntax | 
- | ----- | ----- | 
-| Unordered | `* Item` or `- Item` | 
-| Ordered | `1. Item` | 
-| Task (Complete) | `- [x] Completed Task` | 
-| Task (Incomplete) | `- [ ] Incomplete Task` | 
+| Type              | Syntax                  |
+| :---------------- | :---------------------- |
+| Unordered         | `* Item` or `- Item`    |
+| Ordered           | `1. Item`               |
+| Task (Complete)   | `- [x] Completed Task`  |
+| Task (Incomplete) | `- [ ] Incomplete Task` |
+
+---
 
 ### **Code Blocks**
 
 Use triple backticks and specify the language for syntax highlighting.
 
-
+````markdown
 ```sql
 SELECT
     customer_id,
     order_date
 FROM orders;
-```
+````
 
 ### **Tables**
 
@@ -69,20 +69,40 @@ FROM orders;
 
 ### **Advanced Formatting**
 
+---
+
+### **Tables**
+
+```markdown
+| Header 1 (Left) | Header 2 (Center) | Header 3 (Right) |
+| :-------------- | :---------------: | ---------------: |
+| Cell 1          |      Cell 2       |           Cell 3 |
+```
+
+---
+
+### **Links & Images**
+
+```markdown
+* Link: [Link Text](https://www.github.com)
+* Image: ![Alt Text](URL_to_image)
+```
+
+---
+
+### **Advanced Formatting**
+
 #### **Alerts**
 
 Use these special blockquotes to emphasize critical information.
 
-```markdown
-> [!NOTE]
-> Useful information that users should know.
+| Type      | Syntax          | Output                                                  |
+| :-------- | :-------------- | :------------------------------------------------------ |
+| Note      | `> [!NOTE]`     | > [!NOTE] Useful information that users should know.      |
+| Important | `> [!IMPORTANT]`| > [!IMPORTANT] Key information users need to know.        |
+| Warning   | `> [!WARNING]`  | > [!WARNING] Urgent info that needs immediate attention. |
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-```
+---
 
 #### **Collapsible Sections**
 
@@ -97,6 +117,8 @@ This is the hidden content. You can put text, images, and even code blocks in he
 </details>
 ```
 
+---
+
 #### **Footnotes**
 
 You can add footnotes[^1] to your content. They will be rendered at the bottom of the document.
@@ -108,6 +130,8 @@ Here is a simple footnote[^1].
 
 [^1]: My reference.
 ```
+
+---
 
 #### **Diagrams (Mermaid)**
 
