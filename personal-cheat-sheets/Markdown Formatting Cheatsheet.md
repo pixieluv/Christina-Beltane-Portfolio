@@ -1,28 +1,44 @@
 # Advanced Markdown Cheatsheet
 
-This is a quick reference guide for the most useful Markdown syntax for creating professional and readable documents on GitHub, based on the GitHub Flavored Markdown (GFM) Spec.
-
-### **Text Formatting**
-
-| Style         | Syntax        | Example                    | Output                     |
-| :------------ | :------------ | :------------------------- | :------------------------- |
-| Bold          | `**text**`    | `**This is bold**`         | **This is bold** |
-| Italic        | `*text*`      | `*This is italic*`         | *This is italic* |
-| Strikethrough | `~~text~~`    | `~~Mistake~~`              | ~~Mistake~~                |
-| Inline Code   | `` `code` ``  | `` `git status` ``         | `git status`               |
-
-### **Headings & Horizontal Rules**
-
-
-# Heading 1
-## Heading 2
-### Heading 3
+This is a quick reference guide for the most useful Markdown syntax for creating professional and readable documents on GitHub. It is designed to be scannable and easy to follow.
 
 ---
 
-Lists & Task ListsTypeSyntaxUnordered* Item or - ItemOrdered1. ItemTask (Complete)- [x] Completed TaskTask (Open)- [ ] Incomplete Task
+### **Text Formatting**
 
-Code Blocks
+Use these basic styles to add emphasis to your text.
+
+| Style         | Syntax        | Example                    | Output           |
+| :------------ | :------------ | :------------------------- | :--------------- |
+| Bold          | `**text**`    | `**This is bold**`         | **This is bold** |
+| Italic        | `*text*`      | `*This is italic*`         | *This is italic* |
+| Strikethrough | `~~text~~`    | `~~Mistake~~`              | ~~Mistake~~      |
+| Inline Code   | `` `code` ``  | `` `git status` ``         | `git status`     |
+
+---
+
+### **Headings**
+
+Use hashtags to create headings. The number of hashtags determines the size.
+
+`# Heading 1`
+`## Heading 2`
+`### Heading 3`
+
+---
+
+### **Lists & Task Lists**
+
+| Type            | Syntax                  |
+| :-------------- | :---------------------- |
+| Unordered       | `* Item` or `- Item`    |
+| Ordered         | `1. Item`               |
+| Task (Complete) | `- [x] Completed Task`  |
+| Task (Open)     | `- [ ] Incomplete Task` |
+
+---
+
+### **Code Blocks**
 Use triple backticks and specify the language for syntax highlighting.
 
 sql
@@ -31,8 +47,10 @@ SELECT
     order_date
 FROM orders;
 
-### **Tables**
+---
 
+### **Tables**
+```markdown
 | Header 1 (Left) | Header 2 (Center) | Header 3 (Right) |
 | :-------------- | :---------------: | ---------------: |
 | Cell 1          |      Cell 2       |           Cell 3 |
@@ -63,7 +81,6 @@ This is extremely useful for hiding long sections of text.
 HTML
 
 <details>
-
 <summary><strong>Click to Expand Section Title</strong></summary>
 
 This is the hidden content. You can put text, images, and even code blocks in here.
