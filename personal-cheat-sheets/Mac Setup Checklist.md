@@ -3,7 +3,7 @@ The Architect's Mac Setup Checklist
 This is your master blueprint for setting up a new Mac for development. It provides a clear, repeatable process for installing and configuring all the essential tools.
 
 <details open>
-<summary><h3>Phase 1: The Foundation</h3></summary>
+<summary><strong>Phase 1: The Foundation</strong></summary>
 
 [ ] Install Xcode Command Line Tools
 
@@ -20,7 +20,8 @@ After Xcode tools are installed, run this command in your Terminal:
 /bin/bash -c "$(curl -fsSL [https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh](https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh))"
 
 
-CRITICAL: After the installation finishes, the script will show you "Next steps". You must run the two commands it provides to add Homebrew to your PATH. They will look like this:
+[!IMPORTANT]
+After the installation finishes, the script will show you "Next steps". You must run the two commands it provides to add Homebrew to your PATH. They will look like this:
 
 (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> ~/.zprofile
 
@@ -39,7 +40,7 @@ Close the old Terminal app. From now on, you will use iTerm2 for all command lin
 </details>
 
 <details>
-<summary><h3>Phase 2: Version Control & Code Editors</h3></summary>
+<summary><strong>Phase 2: Version Control & Code Editors</strong></summary>
 
 [ ] Install Git & GitHub Desktop
 
@@ -56,7 +57,7 @@ Close the old Terminal app. From now on, you will use iTerm2 for all command lin
 </details>
 
 <details>
-<summary><h3>Phase 3: Programming Languages</h3></summary>
+<summary><strong>Phase 3: Programming Languages</strong></summary>
 
 [ ] Install Python
 
@@ -71,7 +72,7 @@ Install the latest version of Python 3: brew install python3
 </details>
 
 <details>
-<summary><h3>Phase 4: Database Tools</h3></summary>
+<summary><strong>Phase 4: Database Tools</strong></summary>
 
 [ ] Install a SQL Client
 
@@ -84,7 +85,7 @@ Install the MySQL database server (the engine that stores the data): brew instal
 </details>
 
 <details>
-<summary><h3>Phase 5: Understand Your Workflow</h3></summary>
+<summary><strong>Phase 5: Understand Your Workflow</strong></summary>
 
 This is the process of how all the tools fit together for a typical project.
 
