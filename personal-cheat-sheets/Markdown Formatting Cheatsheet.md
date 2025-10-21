@@ -73,20 +73,11 @@ FROM orders;
 * Image: ![Alt Text](URL_to_image)
 ```
 
+---
 ### **Advanced Formatting**
 
 ---
 
-### **Links & Images**
-
-```markdown
-* Link: [Link Text](https://www.github.com)
-* Image: ![Alt Text](URL_to_image)
-```
-
----
-
-### **Advanced Formatting**
 
 #### **Alerts**
 
@@ -98,7 +89,6 @@ Use these special blockquotes to emphasize critical information.
 | Important | `> [!IMPORTANT]`| > [!IMPORTANT] Key information users need to know.        |
 | Warning   | `> [!WARNING]`  | > [!WARNING] Urgent info that needs immediate attention. |
 
----
 
 #### **Collapsible Sections**
 
@@ -113,7 +103,6 @@ This is the hidden content. You can put text, images, and even code blocks in he
 </details>
 ```
 
----
 
 #### **Footnotes**
 
@@ -126,8 +115,6 @@ Here is a simple footnote[^1].
 
 [^1]: My reference.
 ```
-
----
 
 #### **Diagrams (Mermaid)**
 
