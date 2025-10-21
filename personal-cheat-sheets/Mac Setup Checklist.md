@@ -9,7 +9,10 @@ This is your master blueprint for setting up a new Mac for development. It provi
 
 Open the default Terminal app (you can find it in /Applications/Utilities/).
 
-Run the command: xcode-select --install
+Run the command:
+
+xcode-select --install
+
 
 Click Install in the pop-up window and agree to the terms.
 
@@ -21,7 +24,7 @@ After Xcode tools are installed, run this command in your Terminal:
 
 
 [!IMPORTANT]
-After the installation finishes, the script will show you "Next steps". You must run the two commands it provides to add Homebrew to your PATH. They will look like this:
+After the installation finishes, the script will show you "Next steps". You must run the two commands it provides to add Homebrew to your PATH.
 
 (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> ~/.zprofile
 
@@ -33,7 +36,13 @@ After running the commands, close and restart your Terminal.
 
 [ ] Install and Switch to iTerm2 (Your Power Tool)
 
-Install iTerm2 using Homebrew: brew install --cask iterm2
+[!NOTE]
+iTerm2 is the professional-grade choice. It offers features like split panes and better search that are essential for a productive workflow.
+
+Install iTerm2 using Homebrew:
+
+brew install --cask iterm2
+
 
 Close the old Terminal app. From now on, you will use iTerm2 for all command line work.
 
@@ -44,15 +53,27 @@ Close the old Terminal app. From now on, you will use iTerm2 for all command lin
 
 [ ] Install Git & GitHub Desktop
 
-[ ] Update Git using Homebrew: brew install git
+[ ] Update Git using Homebrew:
 
-[ ] Install the GitHub Desktop application: brew install --cask github
+brew install git
+
+
+[ ] Install the GitHub Desktop application:
+
+brew install --cask github
+
 
 [ ] Install Sublime Text & Sublime Merge
 
-[ ] Install the Sublime Text editor: brew install --cask sublime-text
+[ ] Install the Sublime Text editor:
 
-[ ] Install the Sublime Merge Git client: brew install --cask sublime-merge
+brew install --cask sublime-text
+
+
+[ ] Install the Sublime Merge Git client:
+
+brew install --cask sublime-merge
+
 
 </details>
 
@@ -61,13 +82,22 @@ Close the old Terminal app. From now on, you will use iTerm2 for all command lin
 
 [ ] Install Python
 
-Install the latest version of Python 3: brew install python3
+Install the latest version of Python 3:
+
+brew install python3
+
 
 [ ] Install R & RStudio
 
-[ ] Install the R language: brew install --cask r
+[ ] Install the R language:
 
-[ ] Install the RStudio IDE: brew install --cask rstudio
+brew install --cask r
+
+
+[ ] Install the RStudio IDE:
+
+brew install --cask rstudio
+
 
 </details>
 
@@ -76,11 +106,17 @@ Install the latest version of Python 3: brew install python3
 
 [ ] Install a SQL Client
 
-Install the TablePlus database client (the user interface): brew install --cask tableplus
+Install the TablePlus database client (the user interface):
+
+brew install --cask tableplus
+
 
 [ ] Install a SQL Server
 
-Install the MySQL database server (the engine that stores the data): brew install mysql
+Install the MySQL database server (the engine that stores the data):
+
+brew install mysql
+
 
 </details>
 
