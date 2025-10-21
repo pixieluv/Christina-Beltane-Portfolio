@@ -13,7 +13,7 @@ This is a quick reference guide for the most useful Markdown syntax for creating
 
 ### **Headings & Horizontal Rules**
 
-```markdown
+
 # Heading 1
 ## Heading 2
 ### Heading 3
@@ -25,14 +25,14 @@ Lists & Task ListsTypeSyntaxUnordered* Item or - ItemOrdered1. ItemTask (Complet
 Code Blocks
 Use triple backticks and specify the language for syntax highlighting.
 
-```sql
+sql
 SELECT
     customer_id,
     order_date
 FROM orders;
 
 ### **Tables**
-```markdown
+
 | Header 1 (Left) | Header 2 (Center) | Header 3 (Right) |
 | :-------------- | :---------------: | ---------------: |
 | Cell 1          |      Cell 2       |           Cell 3 |
