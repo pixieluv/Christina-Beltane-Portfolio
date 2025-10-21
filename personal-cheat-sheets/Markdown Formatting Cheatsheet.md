@@ -50,7 +50,7 @@ FROM orders;
 ---
 
 ### **Tables**
-```markdown
+
 | Header 1 (Left) | Header 2 (Center) | Header 3 (Right) |
 | :-------------- | :---------------: | ---------------: |
 | Cell 1          |      Cell 2       |           Cell 3 |
