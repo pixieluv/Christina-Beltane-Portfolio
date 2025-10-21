@@ -23,11 +23,18 @@ Use these basic styles to add emphasis to your text.
 
 Use hashtags to create headings. The number of hashtags determines the size.
 
+| Style         | Syntax          |
+| :------------ | :-------------- |
+| # Heading 1   | `# Heading 1`   |
+| ## Heading 2  | `# Heading 2`   |
+| ### Heading 3 | `### Heading 3` |
 
-# Heading 1
-## Heading 2
-### Heading 3
-Lists & Task Lists
+
+# Heading 1 `#Heading 1 `
+## Heading 2  `markdown ##Heading 2 `
+### Heading 3  `markdown ###Heading 3 `
+
+### **Lists & Task Lists**
 
 
 * An unordered item
