@@ -10,8 +10,8 @@ This section contains examples of code used for analyzing costs, managing resour
 
 ### **SQL Examples (`/sql-examples`)**
 
-* [`aws-billing-sql-examples.md`](./sql-examples/aws-billing-sql-examples.md): A collection of SQL queries for analyzing AWS Cost and Usage Reports (CUR). *(Note: This seems to be a consolidated file based on your screenshot - adjust link if these are individual files as we created)*
-    * *(If individual files):*
+* [`aws-billing-sql-examples.md`](./sql-examples/aws-billing-sql-examples.md): A collection of SQL queries for analyzing AWS Cost and Usage Reports (CUR). 
+    * 
         * [`kubernetes-cluster-spend.md`](./sql-examples/kubernetes-cluster-spend.md): Analyzes infrastructure costs associated with specific Kubernetes clusters.
         * [`savings-plan-coverage.md`](./sql-examples/savings-plan-coverage.md): Details AWS Savings Plan coverage and effectiveness.
         * [`service-tagging-status.md`](./sql-examples/service-tagging-status.md): Tracks resource tagging compliance for financial accountability.
@@ -33,8 +33,8 @@ This section contains reusable templates and frameworks for various program mana
 
 ### **Project Management (`/document-templates/project-management`)**
 
-* [`sow-template.md`](./document-templates/project-management/sow-template.md): A template for creating a clear Statement of Work for new projects. *(Note: We need to create this file)*
-* [`project-plan-template.md`](./document-templates/project-management/project-plan-template.md): A blueprint for structuring detailed project plans and task tracking. *(Note: We need to create this file)*
+* [`sow-template.md`](./document-templates/project-management/sow-template.md): A template for creating a clear Statement of Work for new projects. *(Note: I need to create this file)*
+* [`project-plan-template.md`](./document-templates/project-management/project-plan-template.md): A blueprint for structuring detailed project plans and task tracking. *(Note: I need to create this file)*
 * *(Placeholder: Add link to Status Update template once created)*
 
 ---
@@ -52,3 +52,4 @@ This section contains quick reference guides and checklists for technical setups
 ### **Contact**
 
 * **LinkedIn:** http://www.linkedin.com/in/christinabeltane
+* **email:** christina.beltane@gmail.com
