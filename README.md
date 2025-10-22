@@ -4,6 +4,14 @@ Welcome to my professional portfolio. I am a senior leader with over 15 years of
 
 ---
 
+## 📄 View My Resume
+
+You can view or download my full resume here:
+
+* **[Christina Beltane - Resume (PDF)](./CBeltane-TPM-Infrastructure-&-Cloud-FinOps.pdf)** 
+
+---
+
 ## 📂 Billing Code Examples
 
 This section contains examples of code used for analyzing costs, managing resources, and optimizing cloud infrastructure spend.
@@ -32,6 +40,8 @@ This section contains reusable templates and frameworks for various program mana
 
 ### **Project Management (`/document-templates/project-management`)**
 
+* [`sow-template.md`](./document-templates/project-management/sow-template.md): A template for creating a clear Statement of Work for new projects. *(Note: I need to create this file)*
+* [`project-plan-template.md`](./document-templates/project-management/project-plan-template.md): A blueprint for structuring detailed project plans and task tracking. *(Note: I need to create this file)*
 * *(Placeholder: Add link to Status Update template once created)*
 
 ---
@@ -42,7 +52,7 @@ This section contains quick reference guides and checklists for technical setups
 
 * [`mac-setup-checklist.md`](./personal-cheat-sheets/mac-setup-checklist.md): A step-by-step guide for setting up a macOS development environment.
 * [`markdown-formatting-cheatsheet.md`](./personal-cheat-sheets/markdown-formatting-cheatsheet.md): A reference for advanced GitHub Flavored Markdown syntax.
-* *(Placeholder: Add link to Git Cheatsheet once separated or confirmed)*
+* *(Placeholder: Add link to Git Cheatsheet)*
 
 ---
 
