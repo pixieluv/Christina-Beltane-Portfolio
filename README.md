@@ -8,7 +8,7 @@ Welcome to my professional portfolio. I am a senior leader with over 15 years of
 
 You can view or download my full resume here:
 
-* **[Christina Beltane - Resume (PDF)](./Christina_Beltane_Resume.pdf)** 
+* **[Christina Beltane - Resume](./Christina_Beltane_Resume.pdf)** 
 
 ---
 
