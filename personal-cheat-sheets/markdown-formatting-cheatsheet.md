@@ -8,12 +8,12 @@ This is a quick reference guide for the most useful Markdown syntax for creating
 
 Use these basic styles to add emphasis to your text.
 
-| Style         | Syntax        |
-| :------------ | :------------ |
-| Bold          | `**text**`    |
-| Italic        | `*text*`      |
-| Strikethrough | `~~text~~`    |
-| Inline Code   | `` `code` ``  |
+| Style              | Syntax        |
+| :----------------- | :------------ |
+| **Bold**           | `**text**`    |
+| *Italic*           | `*text*`      |
+| ~~Strikethrough~~  | `~~text~~`    |
+| ` Inline Code  `   | `` `code` ``  |
 
 ---
 
