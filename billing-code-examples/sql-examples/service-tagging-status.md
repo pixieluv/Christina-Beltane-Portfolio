@@ -1,4 +1,4 @@
-### **The Business Problem**
+# The Business Problem
 
 Cost accountability is impossible without accurate data. A foundational step in any FinOps practice is ensuring all cloud resources are "tagged" with the name of the service or team that owns them. This query is designed to measure the success of a tagging initiative by calculating the percentage of tagged versus untagged resources for a specific AWS account.
 

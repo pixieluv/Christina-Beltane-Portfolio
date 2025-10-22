@@ -1,5 +1,4 @@
-## **Top 10 EC2 Instance Costs**
----
+# Top 10 EC2 Instance Costs
 
 ### **The Business Problem**
 

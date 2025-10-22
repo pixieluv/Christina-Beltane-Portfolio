@@ -1,5 +1,5 @@
-## **Top 3 AWS Regions by Spend**
----
+# Top 3 AWS Regions by Spend
+
 
 ### **The Business Problem**
 

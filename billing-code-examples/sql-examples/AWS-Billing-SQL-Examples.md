@@ -1,4 +1,4 @@
-### **Introduction**
+# Introduction
 
 This document contains a collection of SQL queries I have written to analyze cloud infrastructure costs, resource utilization, and operational health. Each query is presented as a mini-case study, outlining the business problem, the analytical approach, and the commented SQL code used to generate the insights.
 
