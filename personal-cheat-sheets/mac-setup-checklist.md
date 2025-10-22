@@ -18,7 +18,7 @@ This is your master blueprint for setting up a new Mac for development. It provi
         ```bash
         /bin/bash -c "$(curl -fsSL [https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh](https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh))"
         ```
-    > [!IMPORTANT]
+     [!IMPORTANT]
     > After the installation finishes, the script will show you "Next steps". You **must** run the two commands it provides to add Homebrew to your PATH.
     > ```bash
     > (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> ~/.zprofile
@@ -29,7 +29,7 @@ This is your master blueprint for setting up a new Mac for development. It provi
     * After running the commands, **close and restart your Terminal.**
 
 * [ ] **Install and Switch to iTerm2 (Your Power Tool)**
-    > [!NOTE]
+     [!NOTE]
     > iTerm2 is the professional-grade choice. It offers features like split panes and better search that are essential for a productive workflow.
     * Install iTerm2 using Homebrew:
         ```bash
