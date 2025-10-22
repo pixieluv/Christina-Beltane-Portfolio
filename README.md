@@ -3,10 +3,6 @@
 Welcome to my professional portfolio. I am a senior leader with over 15 years of experience architecting and leading strategic programs in technology operations. This repository contains a collection of the tools, frameworks, and analytical models I have built to create order from chaos and drive measurable business impact.
 
 ---
-### **Contact**
-
-* **LinkedIn:** [http://www.linkedin.com/in/christinabeltane](http://www.linkedin.com/in/christinabeltane)
-* **Email:** christina.beltane@gmail.com
 
 ## 📄 View My Resume
 
@@ -14,6 +10,10 @@ You can view or download my full resume here:
 
 * **[Christina Beltane - Resume](./Christina_Beltane_Resume.pdf)** 
 
+### **Contact**
+
+* **LinkedIn:** [http://www.linkedin.com/in/christinabeltane](http://www.linkedin.com/in/christinabeltane)
+* **Email:** christina.beltane@gmail.com
 ---
 
 ## 📂 Billing Code Examples
@@ -22,7 +22,7 @@ This section contains examples of code used for analyzing costs, managing resour
 
 ### **SQL Examples (`/sql-examples`)** 
 
-* [`aws-billing-sql-examples.md`](./billing-code-examples/sql-examples/aws-billing-sql-examples.md): A collection of SQL queries for analyzing AWS Cost and Usage Reports (CUR). 
+* [`aws-billing-sql-examples.md`](./main/billing-code-examples/sql-examples/aws-billing-sql-examples.md): A collection of SQL queries for analyzing AWS Cost and Usage Reports (CUR). 
 * [`kubernetes-cluster-spend.md`](./billing-code-examples/sql-examples/kubernetes-cluster-spend.md): Analyzes infrastructure costs associated with specific Kubernetes clusters.
 * [`savings-plan-coverage.md`](./billing-code-examples/sql-examples/savings-plan-coverage.md): Details AWS Savings Plan coverage and effectiveness.
 * [`service-tagging-status.md`](./billing-code-examples/sql-examples/service-tagging-status.md): Tracks resource tagging compliance for financial accountability.
