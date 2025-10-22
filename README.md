@@ -51,4 +51,4 @@ This section contains quick reference guides and checklists for technical setups
 
 ### **Contact**
 
-* **LinkedIn:** [Your LinkedIn Profile URL Here]
+* **LinkedIn:** http://www.linkedin.com/in/christinabeltane
