@@ -2,7 +2,7 @@
 
 This template provides a clear framework for defining roles and responsibilities for project tasks or deliverables, based on your RACI examples.
 
-```markdown
+markdown
 # RACI Chart: [Project Name] - [Phase/Deliverable]
 
 **Date:** [Date Created]
