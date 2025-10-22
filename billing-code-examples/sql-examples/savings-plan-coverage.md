@@ -1,5 +1,4 @@
-## **4. Savings Plan Coverage Analysis**
----
+# Savings Plan Coverage Analysis
 
 ### **The Business Problem**
 
