@@ -22,7 +22,7 @@ This section contains examples of code used for analyzing costs, managing resour
 
 ### **SQL Examples (`/sql-examples`)** 
 
-* [`aws-billing-sql-examples.md`](./main/billing-code-examples/sql-examples/aws-billing-sql-examples.md): A collection of SQL queries for analyzing AWS Cost and Usage Reports (CUR). 
+* [`aws-billing-sql-examples.md`](./billing-code-examples/sql-examples/aws-billing-sql-examples.md): A collection of SQL queries for analyzing AWS Cost and Usage Reports (CUR). 
 * [`kubernetes-cluster-spend.md`](./billing-code-examples/sql-examples/kubernetes-cluster-spend.md): Analyzes infrastructure costs associated with specific Kubernetes clusters.
 * [`savings-plan-coverage.md`](./billing-code-examples/sql-examples/savings-plan-coverage.md): Details AWS Savings Plan coverage and effectiveness.
 * [`service-tagging-status.md`](./billing-code-examples/sql-examples/service-tagging-status.md): Tracks resource tagging compliance for financial accountability.
