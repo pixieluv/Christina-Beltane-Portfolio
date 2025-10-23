@@ -1,8 +1,8 @@
 **Subject: Meeting Invitation: [Project Name] - [Meeting Purpose] on [Date]**
 
-**To:** [Required Attendee Email(s)]
-**Cc:** [Optional Attendee Email(s), Sponsor Email]
-**From:** [Your Name/Email]
+* **To:** [Required Attendee Email(s)]
+* **Cc:** [Optional Attendee Email(s), Sponsor Email]
+* **From:** [Your Name/Email]
 
 ---
 

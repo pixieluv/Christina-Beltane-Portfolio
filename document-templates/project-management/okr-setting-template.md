@@ -1,8 +1,8 @@
 # OKR Setting: [Team/Project Name] - [Time Period, e.g., Q4 2025]
 
-**Owner:** [Name/Role]
-**Date Created:** [Date]
-**Version:** 1.0
+* **Owner:** [Name/Role]
+* **Date Created:** [Date]
+* **Version:** 1.0
 
 ---
 

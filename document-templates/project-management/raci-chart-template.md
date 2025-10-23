@@ -4,9 +4,9 @@ This template provides a clear framework for defining roles and responsibilities
 
 # RACI Chart: [Project Name] - [Phase/Deliverable]
 
-**Date:** [Date Created]
-**Project Lead:** [Name/Role]
-**Version:** 1.0
+* **Date:** [Date Created]
+* **Project Lead:** [Name/Role]
+* **Version:** 1.0
 
 ---
 

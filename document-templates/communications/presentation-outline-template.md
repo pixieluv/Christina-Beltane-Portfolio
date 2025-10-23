@@ -1,8 +1,8 @@
 # Presentation Outline: [Project Name] - [Purpose, e.g., Q3 Results, Phase 1 Update]
 
-**Presenter:** [Name/Role]
-**Date:** [Date]
-**Audience:** [e.g., Project Sponsor, Leadership Team, Stakeholders]
+* **Presenter:** [Name/Role]
+* **Date:** [Date]
+* **Audience:** [e.g., Project Sponsor, Leadership Team, Stakeholders]
 
 ---
 

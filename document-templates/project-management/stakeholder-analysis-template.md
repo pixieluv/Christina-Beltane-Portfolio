@@ -1,8 +1,8 @@
 # Stakeholder Analysis: [Project Name]
 
-**Date:** [Date Created]
-**Project Lead:** [Name/Role]
-**Version:** 1.0
+* **Date:** [Date Created]
+* **Project Lead:** [Name/Role]
+* **Version:** 1.0
 
 ---
 

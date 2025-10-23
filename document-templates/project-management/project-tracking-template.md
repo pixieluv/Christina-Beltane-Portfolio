@@ -1,8 +1,8 @@
 # Project Task Tracker: [Project Name]
 
-**Project Lead:** [Name/Role]
-**Date Created:** [Date]
-**Version:** 1.0
+* **Project Lead:** [Name/Role]
+* **Date Created:** [Date]
+* **Version:** 1.0
 
 ---
 

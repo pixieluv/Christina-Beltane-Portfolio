@@ -1,8 +1,8 @@
 # Project Retrospective: [Project Name]
 
-**Facilitator:** [Name/Role]
-**Date:** [Date]
-**Attendees:** [List Core Team Member Names/Roles]
+* **Facilitator:** [Name/Role]
+* **Date:** [Date]
+* **Attendees:** [List Core Team Member Names/Roles]
 
 ---
 

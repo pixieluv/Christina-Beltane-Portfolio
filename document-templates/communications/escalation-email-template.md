@@ -1,9 +1,9 @@
 **Subject: Escalation: [Project Name] - Urgent Issue/Risk Regarding [Brief Topic]**
 
-**To:** [Recipient(s) - e.g., Project Sponsor, Key Stakeholder, Manager]
-**Cc:** [Relevant Parties - e.g., Core Team Lead(s)]
-**From:** [Your Name/Email]
-**Date:** [Date]
+* **To:** [Recipient(s) - e.g., Project Sponsor, Key Stakeholder, Manager]
+* **Cc:** [Relevant Parties - e.g., Core Team Lead(s)]
+* **From:** [Your Name/Email]
+* **Date:** [Date]
 
 ---
 

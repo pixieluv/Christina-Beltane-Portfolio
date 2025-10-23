@@ -1,9 +1,9 @@
 # Statement of Work (SoW): [Project/Engagement Title]
 
-**Project Lead:** [Name/Role]
-**Project Sponsor:** [Name/Role]
-**Date Created:** [Date]
-**Version:** 1.0
+* **Project Lead:** [Name/Role]
+* **Project Sponsor:** [Name/Role]
+* **Date Created:** [Date]
+* **Version:** 1.0
 
 ---
 

@@ -1,8 +1,8 @@
 # PM Best Practices: Guiding Questions & Tips
 
-**Author:** Christina Beltane
-**Date Created:** October 22, 2025
-**Version:** 1.0
+* **Author:** Christina Beltane
+* **Date Created:** October 22, 2025
+* **Version:** 1.0
 
 ---
 

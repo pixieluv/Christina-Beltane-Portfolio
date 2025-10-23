@@ -1,8 +1,8 @@
 # Burndown Chart: Concept & Data Structure
 
-**Project Lead:** [Name/Role]
-**Date Created:** [Date]
-**Version:** 1.0
+* **Project Lead:** [Name/Role]
+* **Date Created:** [Date]
+* **Version:** 1.0
 
 ---
 

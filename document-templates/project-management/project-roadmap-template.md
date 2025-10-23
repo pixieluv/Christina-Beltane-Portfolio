@@ -1,8 +1,8 @@
 # Project Roadmap: [Project/Product/Team Name] - [Year]
 
-**Owner:** [Name/Role]
-**Last Updated:** [Date]
-**Version:** 1.0
+* **Owner:** [Name/Role]
+* **Last Updated:** [Date]
+* **Version:** 1.0
 
 ---
 

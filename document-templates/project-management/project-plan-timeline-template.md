@@ -1,9 +1,9 @@
 # Project Plan & Timeline: [Project Name]
 
-**Project Lead:** [Name/Role]
-**Date Created:** [Date]
-**Version:** 1.0
-**Overall Status:** Planning | Active | On Hold | Completed
+* **Project Lead:** [Name/Role]
+* **Date Created:** [Date]
+* **Version:** 1.0
+* **Overall Status:** Planning | Active | On Hold | Completed
 
 ---
 

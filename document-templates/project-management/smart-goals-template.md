@@ -1,8 +1,8 @@
 # SMART Goals: [Project/Initiative Name]
 
-**Owner:** [Name/Role]
-**Date Created:** [Date]
-**Version:** 1.0
+* **Owner:** [Name/Role]
+* **Date Created:** [Date]
+* **Version:** 1.0
 
 ---
 

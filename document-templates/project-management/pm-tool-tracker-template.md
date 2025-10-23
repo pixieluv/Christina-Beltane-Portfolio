@@ -1,7 +1,7 @@
 # Project Management Tool Tracker
 
-**Owner:** Christina Beltane
-**Last Updated:** October 22, 2025
+* **Owner:** Christina Beltane
+* **Last Updated:** October 22, 2025
 
 ---
 

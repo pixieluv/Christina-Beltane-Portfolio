@@ -1,8 +1,8 @@
 # Project Charter: [Project Name]
 
-**Date:** [Date Created]
-**Document Status:** Draft | In Review | Approved
-**Version:** 1.0
+* **Date:** [Date Created]
+* **Document Status:** Draft | In Review | Approved
+* **Version:** 1.0
 
 ---
 

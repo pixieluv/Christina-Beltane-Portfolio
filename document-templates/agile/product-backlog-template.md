@@ -1,8 +1,8 @@
 # Product Backlog: [Product/Feature Name]
 
-**Product Owner:** [Name/Role]
-**Date Created:** [Date]
-**Version:** 1.0
+* **Product Owner:** [Name/Role]
+* **Date Created:** [Date]
+* **Version:** 1.0
 
 ---
 

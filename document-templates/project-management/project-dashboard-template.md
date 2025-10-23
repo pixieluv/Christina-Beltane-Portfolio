@@ -1,10 +1,10 @@
 # Project Dashboard: [Project Name]
 
-**Project Lead/Owner:** [Name/Role]
-**Project Sponsor:** [Name/Role]
-**Date Created:** [Date]
-**Last Updated:** [Date]
-**Overall Status:** 🟢 Green | 🟡 Amber | 🔴 Red | Planning | On Hold | Completed _(Select current status)_
+* **Project Lead/Owner:** [Name/Role]
+* **Project Sponsor:** [Name/Role]
+* **Date Created:** [Date]
+* **Last Updated:** [Date]
+* **Overall Status:** 🟢 Green | 🟡 Amber | 🔴 Red | Planning | On Hold | Completed _(Select current status)_
 
 ---
 

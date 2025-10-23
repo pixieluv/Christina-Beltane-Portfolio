@@ -1,8 +1,8 @@
 # Meeting Agenda: [Meeting Title/Purpose]
 
-**Date:** [Date]
-**Time:** [Start Time] - [End Time] ([Time Zone])
-**Location:** [e.g., Conference Room Name, Google Meet Link]
+* **Date:** [Date]
+* **Time:** [Start Time] - [End Time] ([Time Zone])
+* **Location:** [e.g., Conference Room Name, Google Meet Link]
 
 ---
 
