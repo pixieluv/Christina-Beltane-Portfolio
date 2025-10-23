@@ -1,9 +1,9 @@
 # Project Status Report: [Project Name]
 
-> **Reporting Period:** [e.g., Week ending Oct 24, 2025]
-> **Date Prepared:** [Date]
-> **Project Lead:** [Name]
-> **Overall Project Health:** 🟢 Green | 🟡 Amber | 🔴 Red _(Select one based on assessment below)_
+* **Reporting Period:** [e.g., Week ending Oct 24, 2025]
+* **Date Prepared:** [Date]
+* **Project Lead:** [Name]
+* **Overall Project Health:** 🟢 Green | 🟡 Amber | 🔴 Red _(Select one based on assessment below)_
 
 ---
 
