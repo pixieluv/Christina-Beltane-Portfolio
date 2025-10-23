@@ -38,7 +38,7 @@ This template provides a clear framework for defining roles and responsibilities
 > Ensure only **one 'A' (Accountable)** is assigned per task row
 
 > [!NOTE] 
-* **Manage Closely (High Power, High Interest):** [e.g., Frequent 1:1s, involve in key decisions, detailed status reports]
-* **Keep Satisfied (High Power, Low Interest):** [e.g., Regular high-level updates, consult on major changes, ensure needs are met]
-* **Keep Informed (Low Power, High Interest):** [e.g., Group updates, newsletters, access to documentation, solicit feedback]
-* **Monitor (Low Power, Low Interest):** [e.g., General communications, minimal effort unless status changes]
+> * **Manage Closely (High Power, High Interest):** [e.g., Frequent 1:1s, involve in key decisions, detailed status reports]
+> * **Keep Satisfied (High Power, Low Interest):** [e.g., Regular high-level updates, consult on major changes, ensure needs are met]
+> * **Keep Informed (Low Power, High Interest):** [e.g., Group updates, newsletters, access to documentation, solicit feedback]
+> * **Monitor (Low Power, Low Interest):** [e.g., General communications, minimal effort unless status changes]
