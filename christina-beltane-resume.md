@@ -1,9 +1,9 @@
-# Christina Beltane
+# Christina Beltane  
+Sunnyvale, CA  
+703-201-8828 | Christina.Beltane@gmail.com   
+[**LinkedIn**](https://www.linkedin.com/in/christinabeltane) | [**Portfolio**](https://github.com/pixieluv/Christina-Beltane-Portfolio)
 
-Sunnyvale, CA | 703-201-8828 | Christina.Beltane@gmail.com
-**LinkedIn:** [linkedin.com/in/christinabeltane](https://www.linkedin.com/in/christinabeltane) | **Portfolio:** [github.com/pixieluv/Christina-Beltane-Portfolio](https://github.com/pixieluv/Christina-Beltane-Portfolio)
 
----
 
 ## Chief of Staff & Strategic Operations Leader
 
