@@ -18,13 +18,13 @@ Examples of code for cost analysis, resource management, and process automation.
 
 ### **SQL: Cloud Cost & Usage Analysis (`/code-examples/sql`)**
 
-* [`Kubernetes Cluster Spend`](./code-examples/sql/kubernetes-cluster-spend.md): Analyzes infra costs for specific Kubernetes clusters.
-* [`Savings Plan Coverage`](./code-examples/sql/savings-plan-coverage.md): Details AWS Savings Plan coverage and effectiveness.
-* [`Service Tagging Status`](./code-examples/sql/service-tagging-status.md): Tracks resource tagging compliance for financial accountability.
-* [`Top AWS Regions Spend`](./code-examples/sql/top-aws-regions-spend.md): Identifies the highest spending AWS regions.
-* [`Top AWS Spend by Account`](./code-examples/sql/top-aws-spend-account.md): Identifies the highest spending AWS accounts.
-* [`Top EC2 Costs`](./code-examples/sql/top-ec2-costs.md): Breaks down the top cost drivers within Amazon EC2.
-* [`Yearly Spend Summary`](./code-examples/sql/yearly-spend-summary.md): High-level overview of year-over-year cloud spend by product.
+* [`Kubernetes Cluster Spend`](./code-examples/sql-examples/kubernetes-cluster-spend.md): Analyzes infra costs for specific Kubernetes clusters.
+* [`Savings Plan Coverage`](./code-examples/sql-examples/savings-plan-coverage.md): Details AWS Savings Plan coverage and effectiveness.
+* [`Service Tagging Status`](./code-examples/sql-examples/service-tagging-status.md): Tracks resource tagging compliance for financial accountability.
+* [`Top AWS Regions Spend`](./code-examples/sql-examples/top-aws-regions-spend.md): Identifies the highest spending AWS regions.
+* [`Top AWS Spend by Account`](./code-examples/sql-examples/top-aws-spend-account.md): Identifies the highest spending AWS accounts.
+* [`Top EC2 Costs`](./code-examples/sql-examples/top-ec2-costs.md): Breaks down the top cost drivers within Amazon EC2.
+* [`Yearly Spend Summary`](./code-examples/sql/-examplesyearly-spend-summary.md): High-level overview of year-over-year cloud spend by product.
 * *(Placeholder: Add link to Marketplace Costs SQL file)*
 * *(Placeholder: Add link to Resource Count SQL file)*
 * *(Placeholder: Add link to RI Applied Resources SQL file)*
