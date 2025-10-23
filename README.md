@@ -8,34 +8,7 @@ Welcome! I am a senior leader with 15+ years of experience architecting strategi
 
 You can view or download my full resume here:
 
-* **[Christina Beltane - Resume (PDF)](./Christina_Beltane_Resume.pdf)** *(Make sure the filename matches)*
-
----
-
-## 📊 Code Examples (`/code-examples`)
-
-Examples of code for cost analysis, resource management, and process automation.
-
-### **SQL: Cloud Cost & Usage Analysis (`/code-examples/sql`)**
-
-* [`Kubernetes Cluster Spend`](./code-examples/sql-examples/kubernetes-cluster-spend.md): Analyzes infra costs for specific Kubernetes clusters.
-* [`Savings Plan Coverage`](./code-examples/sql-examples/savings-plan-coverage.md): Details AWS Savings Plan coverage and effectiveness.
-* [`Service Tagging Status`](./code-examples/sql-examples/service-tagging-status.md): Tracks resource tagging compliance for financial accountability.
-* [`Top AWS Regions Spend`](./code-examples/sql-examples/top-aws-regions-spend.md): Identifies the highest spending AWS regions.
-* [`Top AWS Spend by Account`](./code-examples/sql-examples/top-aws-spend-account.md): Identifies the highest spending AWS accounts.
-* [`Top EC2 Costs`](./code-examples/sql-examples/top-ec2-costs.md): Breaks down the top cost drivers within Amazon EC2.
-* [`Yearly Spend Summary`](./code-examples/sql/-examplesyearly-spend-summary.md): High-level overview of year-over-year cloud spend by product.
-* *(Placeholder: Add link to Marketplace Costs SQL file)*
-* *(Placeholder: Add link to Resource Count SQL file)*
-* *(Placeholder: Add link to RI Applied Resources SQL file)*
-
-### **Python (`/code-examples/python`)**
-
-* *(Placeholder: Link to Python examples - e.g., Cloud Cost Calculator, Resume Keyword Analyzer, Job Tracker)*
-
-### **R (`/code-examples/r`)**
-
-* *(Placeholder: Link to R examples once added)*
+* **[Christina Beltane - Resume](./Christina_Beltane_Resume.pdf)**
 
 ---
 
@@ -93,6 +66,33 @@ Quick reference guides and checklists for technical setups and common tasks.
 * *(Placeholder: Add Python Cheatsheet)*
 * *(Placeholder: Add R Cheatsheet)*
 * *(Placeholder: Add SQL Cheatsheet)*
+
+---
+
+## 📊 Code Examples (`/code-examples`)
+
+Examples of code for cost analysis, resource management, and process automation.
+
+### **SQL: Cloud Cost & Usage Analysis (`/code-examples/sql`)**
+
+* [`Kubernetes Cluster Spend`](./code-examples/sql-examples/kubernetes-cluster-spend.md): Analyzes infra costs for specific Kubernetes clusters.
+* [`Savings Plan Coverage`](./code-examples/sql-examples/savings-plan-coverage.md): Details AWS Savings Plan coverage and effectiveness.
+* [`Service Tagging Status`](./code-examples/sql-examples/service-tagging-status.md): Tracks resource tagging compliance for financial accountability.
+* [`Top AWS Regions Spend`](./code-examples/sql-examples/top-aws-regions-spend.md): Identifies the highest spending AWS regions.
+* [`Top AWS Spend by Account`](./code-examples/sql-examples/top-aws-spend-account.md): Identifies the highest spending AWS accounts.
+* [`Top EC2 Costs`](./code-examples/sql-examples/top-ec2-costs.md): Breaks down the top cost drivers within Amazon EC2.
+* [`Yearly Spend Summary`](./code-examples/sql/-examplesyearly-spend-summary.md): High-level overview of year-over-year cloud spend by product.
+* *(Placeholder: Add link to Marketplace Costs SQL file)*
+* *(Placeholder: Add link to Resource Count SQL file)*
+* *(Placeholder: Add link to RI Applied Resources SQL file)*
+
+### **Python (`/code-examples/python`)**
+
+* *(Placeholder: Link to Python examples - e.g., Cloud Cost Calculator, Resume Keyword Analyzer, Job Tracker)*
+
+### **R (`/code-examples/r`)**
+
+* *(Placeholder: Link to R examples once added)*
 
 ---
 
