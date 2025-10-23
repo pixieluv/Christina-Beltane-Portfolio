@@ -37,6 +37,7 @@ A results-oriented senior leader with over 15 years of experience acting as a st
 
 **VMware** | Palo Alto, CA  
 **Program Manager - VMC Customer & Product Operations Manager** | June 2021 – February 2024  
+  
 Functioned as the Chief of Staff for the VP of Product for the VMware Cloud (VMC) business unit, responsible for all "run-of-business" operations, strategic planning, and executive enablement for a 2000-person global organization.
 * **Drove VMC Business Cadence & Strategy:** Owned the entire operational rhythm for the 2000-person VMC business unit, including budget planning, headcount tracking, and creation of monthly progress reports and yearly vision documents **for the VP of Product**. Directly managed OKR reporting alignment **up to the CEO level.**
 * **Acted as a Trusted Advisor & Coach:** Coached and mentored VMC leadership (VPs, Directors) on effective employee coaching, OKR frameworks, team building, and unified communication strategies, directly improving organizational health and alignment.
@@ -46,12 +47,14 @@ Functioned as the Chief of Staff for the VP of Product for the VMware Cloud (VMC
 
 **DoorDash** | Mountain View, CA  
 **Program Manager - Capacity Planning Manager** | March 2020 – March 2021  
+  
 Brought in as a strategic leader to build the company's first real view into their rapidly growing cloud spend and infrastructure utilization during a period of hyper-growth.
 * **Delivered Immediate, High-Impact Financial Results:** Drove **$1.8M/month in immediate savings**, putting the company on a **$21.6M annualized savings run-rate** within the first 60 days by conducting deep data analysis (SQL/AWS Athena) and leading a rapid-response FinOps program (waste elimination, strategic negotiation support).
 * **Built Foundational Operational Frameworks:** Architected and spearheaded the cross-functional program to tag all AWS resources, creating the foundational data layer for cost allocation and accountability. Developed automated dashboards for real-time cost visibility.
 
 **Twitch** | San Francisco, CA  
 **Program Manager - Capacity Planning Manager** | July 2015 – July 2019  
+  
 Recruited to build the company's first-ever proactive capacity planning and FinOps frameworks from scratch, transforming a reactive, "funny money" culture into one of strategic, data-driven infrastructure management post-acquisition.
 * **Drove Massive Strategic Savings:** Architected and led the AWS cost optimization program, delivering a total of **$48M in quantified cloud savings** over three years.
 * **Ensured Mission-Critical Reliability:** Developed advanced, event-based forecasting models that eliminated all capacity-related outages for massive global events (e.g., Prime Day) with over **3.5M concurrent users**, ensuring **99.999% platform uptime**.
@@ -59,12 +62,14 @@ Recruited to build the company's first-ever proactive capacity planning and FinO
 
 **Leeo, Inc.** | Palo Alto, CA  
 **Engineering Program Manager & Software Release Manager** | January 2014 – June 2015  
+  
 Led program management for the software engineering org at an early-stage consumer IoT startup.
 * **Built the Release Pipeline from Scratch:** Designed, managed, and automated (Jenkins/Python) the end-to-end software release process for flagship iOS and Android apps, coordinating releases to QA, reviewing results, and having final approval.
 * **Owned International Vendor & Team Management:** Managed the complete relationship (contract, onboarding, daily program management) with a remote development team in Poland, ensuring seamless integration. Drove technical innovation via an automated testing framework (Cucumber).
 
 **Self-Employed / Consultant & Student** | Mountain View, CA  
 **IT Consultant** | October 2013 – January 2014  
+  
 Provided sole-source IT consultation and hands-on support (network, desktop, server, database, applications) for early-stage startups (Robotex, Leeo) while attending an intensive web developer bootcamp (Coding Dojo).
 
 ---
@@ -79,3 +84,4 @@ Built a strong foundation through progressively senior roles in US government co
 
 * **Coding Dojo** | Full Stack Web Development Bootcamp | 2013
 * **Northern Virginia Community College** | AAS, Network Engineering & AAS, Network Administration | 2004
+* **Project Management Institute** | Project Management Professional (PMP)® | 2024
