@@ -67,7 +67,7 @@ Examples of code for cost analysis, resource management, and process automation.
 * [`Top AWS Regions Spend`](./code-examples/sql-examples/top-aws-regions-spend.md): Identifies the highest spending AWS regions.
 * [`Top AWS Spend by Account`](./code-examples/sql-examples/top-aws-spend-account.md): Identifies the highest spending AWS accounts.
 * [`Top EC2 Costs`](./code-examples/sql-examples/top-ec2-costs.md): Breaks down the top cost drivers within Amazon EC2.
-* [`Yearly Spend Summary`](./code-examples/sqlexamples/yearly-spend-summary.md): High-level overview of year-over-year cloud spend by product.
+* [`AWS Billing SQL Examples`](./code-examples/sqlexamples/AWS-Billing-SQL-Examples.md): Helpful AWS billing SQL statements
 * *(Placeholder: Add link to Marketplace Costs SQL file)*
 * *(Placeholder: Add link to Resource Count SQL file)*
 * *(Placeholder: Add link to RI Applied Resources SQL file)*
