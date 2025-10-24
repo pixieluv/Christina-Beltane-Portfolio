@@ -55,20 +55,6 @@ Reusable blueprints for program management and operational excellence.
 
 ---
 
-## 🛠️ Technical Guides & Cheatsheets (`/technical-guides`)
-
-Quick reference guides and checklists for technical setups and common tasks.
-
-* [`Mac Setup Checklist`](./technical-guides/mac-setup-checklist.md): Step-by-step guide for setting up a macOS development environment.
-* [`Markdown Formatting Cheatsheet`](./technical-guides/markdown-formatting-cheatsheet.md): Reference for advanced GitHub Flavored Markdown syntax.
-* [`Git Commands Cheatsheet`](./technical-guides/git-commands-cheatsheet.md): Quick reference for essential Git commands.
-* [`PM Tool Tracker`](./document-templates/project-management/pm-tool-tracker-template.md): List/comparison structure for PM tools.
-* *(Placeholder: Add Python Cheatsheet)*
-* *(Placeholder: Add R Cheatsheet)*
-* *(Placeholder: Add SQL Cheatsheet)*
-
----
-
 ## 📊 Code Examples (`/code-examples`)
 
 Examples of code for cost analysis, resource management, and process automation.
@@ -81,7 +67,7 @@ Examples of code for cost analysis, resource management, and process automation.
 * [`Top AWS Regions Spend`](./code-examples/sql-examples/top-aws-regions-spend.md): Identifies the highest spending AWS regions.
 * [`Top AWS Spend by Account`](./code-examples/sql-examples/top-aws-spend-account.md): Identifies the highest spending AWS accounts.
 * [`Top EC2 Costs`](./code-examples/sql-examples/top-ec2-costs.md): Breaks down the top cost drivers within Amazon EC2.
-* [`Yearly Spend Summary`](./code-examples/sql/-examplesyearly-spend-summary.md): High-level overview of year-over-year cloud spend by product.
+* [`Yearly Spend Summary`](./code-examples/sqlexamples/yearly-spend-summary.md): High-level overview of year-over-year cloud spend by product.
 * *(Placeholder: Add link to Marketplace Costs SQL file)*
 * *(Placeholder: Add link to Resource Count SQL file)*
 * *(Placeholder: Add link to RI Applied Resources SQL file)*
@@ -93,6 +79,20 @@ Examples of code for cost analysis, resource management, and process automation.
 ### **R (`/code-examples/r`)**
 
 * *(Placeholder: Link to R examples once added)*
+
+---
+
+## 🛠️ Technical Guides & Cheatsheets (`/technical-guides`)
+
+Quick reference guides and checklists for technical setups and common tasks.
+
+* [`Mac Setup Checklist`](./technical-guides/mac-setup-checklist.md): Step-by-step guide for setting up a macOS development environment.
+* [`Markdown Formatting Cheatsheet`](./technical-guides/markdown-formatting-cheatsheet.md): Reference for advanced GitHub Flavored Markdown syntax.
+* [`Git Commands Cheatsheet`](./technical-guides/git-commands-cheatsheet.md): Quick reference for essential Git commands.
+* [`PM Tool Tracker`](./document-templates/project-management/pm-tool-tracker-template.md): List/comparison structure for PM tools.
+* *(Placeholder: Add Python Cheatsheet)*
+* *(Placeholder: Add R Cheatsheet)*
+* *(Placeholder: Add SQL Cheatsheet)*
 
 ---
 
