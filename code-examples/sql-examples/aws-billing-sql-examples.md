@@ -35,7 +35,7 @@ ORDER BY
     cost DESC
 -- Limit the output to the top 5 spenders.
 LIMIT 5;
-
+```
 ---
 
 ### **2. Service Tagging Status by Account**
