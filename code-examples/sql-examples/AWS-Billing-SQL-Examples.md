@@ -74,7 +74,7 @@ GROUP BY
 -- Order by the number of missing tags to prioritize the biggest problems.
 ORDER BY
     serviceTagMissing DESC;
-
+```
 ---
 
 ### **3. Top 10 EC2 Instance Costs**
@@ -105,7 +105,7 @@ ORDER BY
     cost DESC
 -- Limit to the top 10.
 LIMIT 10;
-
+```
 ---
 
 ### **4. Kubernetes Cluster Spend Summary**
@@ -137,7 +137,7 @@ GROUP BY
 -- Order by cluster name for readability.
 ORDER BY
     resource_tags_user_kubernetes_cluster;
-
+```
 ---
 
 ### **5. Savings Plan Coverage Analysis**
